@@ -143,7 +143,7 @@ export function Hero() {
             </motion.a>
 
             <motion.a
-              href="/AbdulOdudood_WebDeveloper.pdf"
+              href="/AbdulOdudood_SoftwareDeveloper.pdf"
               initial={{ opacity: 0, y: 20 }}
               animate={isLoaded ? { opacity: 1, y: 0 } : { opacity: 0, y: 20 }}
               whileHover={{ scale: 1.04, y: -2 }}
