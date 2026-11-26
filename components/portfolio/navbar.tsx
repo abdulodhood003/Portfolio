@@ -174,7 +174,7 @@ export function Navbar() {
         <div className="flex items-center gap-2">
           {/* Resume CTA with ripple */}
           <RippleButton
-            href="/AbdulOdudood_WebDeveloper.pdf"
+            href="/AbdulOdudood_SoftwareDeveloper.pdf"
             download
             className="hidden items-center gap-2 rounded-full bg-primary px-4 py-2 text-sm font-medium text-primary-foreground shadow-lg shadow-primary/20 sm:inline-flex sm:px-5"
           >
