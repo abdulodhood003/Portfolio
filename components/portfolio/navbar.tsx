@@ -237,7 +237,7 @@ export function Navbar() {
               )
             })}
             <a
-              href="/resume.pdf"
+              href="/AbdulOdudood_SoftwareDeveloper.pdf"
               download
               onClick={() => setOpen(false)}
               className="mt-1 flex items-center justify-center gap-2 rounded-2xl bg-primary px-4 py-3 text-sm font-medium text-primary-foreground"
